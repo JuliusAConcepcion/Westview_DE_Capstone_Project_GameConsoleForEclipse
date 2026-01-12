@@ -7,7 +7,8 @@ We wanted to create a handheld console that would be able to run games we made o
 
 During the project, Michael took charge of the coding to set up our display and games on the Raspberry Pi. Here's his repo with his code:
 **https://github.com/monsterenergydrank/ConsoleCapstone-MM-JC.git
-**
+** 
 While I was focused on the controller's inputs using Arduino IDE to test our joystick and buttons. For refrence I used Science Buddies' video on coding a joystick using Arduino IDE: 
 **https://www.youtube.com/watch?v=vo7SbVhW3pE
 **
+and soldering our Dpad buttons and Reed switch for turning the console off when the lid is closed 
