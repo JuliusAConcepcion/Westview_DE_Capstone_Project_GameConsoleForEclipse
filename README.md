@@ -15,13 +15,14 @@ and soldering our Dpad buttons and Reed switch for turning the console off when 
 
 Pictures:
 **Testing rig for Joystick inputs and Dpad buttons**
+
 <img width="612" height="792" alt="535923677-d8ba7447-3555-40c2-978a-30b2a3a4723f" src="https://github.com/user-attachments/assets/b78565ff-19f9-4498-97ab-fbd01758bf97" />
 
 **Final-prototype of Joystick, left/right, and Dpad**
+
 <img width="621" height="720" alt="535923808-3fbf5cee-6735-4fa3-97a3-840573aac3a4" src="https://github.com/user-attachments/assets/78b8871d-1467-42be-8b3e-a8d5ed8b078e" />
 
 **Video of Final-prototype with Michael's Duckhunt-Game**
-
 
 https://github.com/user-attachments/assets/f471ec4b-4620-4367-b211-341ecd350c92
 
